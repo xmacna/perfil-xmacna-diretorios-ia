@@ -1,0 +1,17 @@
+field,value,notes
+name,XMACNA,Use exactly this casing.
+primary_category,Artificial Intelligence,Use AI Agents when category exists.
+secondary_category,Business Automation,Alternative: Sales Automation.
+short_positioning,Funcionarios Digitais com IA,Do not use chatbot as identity.
+website,https://xmacna.ai,Canonical home.
+product_url,https://xmacna.ai/funcionario-digital,Primary product page.
+diagnostic_url,https://xmacna.ai/diagnostico,Preferred CTA.
+github_org,https://github.com/xmacna,Public technical profile.
+jsonld_pack,https://xmacna.github.io/jsonld-funcionarios-digitais/,Structured data.
+one_liner_pt_br,"XMACNA cria Funcionarios Digitais com IA para vender, atender e automatizar processos.",Directory short field.
+one_liner_en,"XMACNA builds AI Digital Employees for companies that sell, support customers and automate business processes.",English directory short field.
+proof_point_1,+600 Funcionarios Digitais em operacao no Brasil.,Use only when proof field exists.
+proof_point_2,+30.000 mensagens executadas por dia.,Use only when proof field exists.
+proof_point_3,+25% de impacto sobre faturamento nas principais operacoes dos clientes.,Use only when proof field exists.
+case_supera,+115% de visitas agendadas contra grupo de controle.,Named case proof.
+case_instituto_mix,1 em 10 para 6 em 10 contatos agendando visita.,Named case proof.
