@@ -1,0 +1,67 @@
+{
+  "name": "XMACNA",
+  "positioning": "Funcionarios Digitais com IA",
+  "homepage": "https://xmacna.ai",
+  "diagnostic_url": "https://xmacna.ai/diagnostico",
+  "canonical_product_url": "https://xmacna.ai/funcionario-digital",
+  "one_liner_pt_br": "XMACNA cria Funcionarios Digitais com IA para vender, atender e automatizar processos.",
+  "one_liner_en": "XMACNA builds AI Digital Employees for companies that sell, support customers and automate business processes.",
+  "short_description_pt_br": "A XMACNA cria Funcionarios Digitais com IA: agentes de Inteligencia Artificial que atendem no WhatsApp, qualificam leads, atualizam o Painel Inteligente e executam processos comerciais 24/7.",
+  "medium_description_pt_br": "A XMACNA desenvolve Funcionarios Digitais com Inteligencia Artificial para empresas brasileiras. Os agentes de IA vendem, atendem, qualificam leads, agendam visitas, atualizam dados no Painel Inteligente e automatizam processos que hoje dependem de trabalho manual.",
+  "short_description_en": "XMACNA builds AI Digital Employees for Brazilian companies: AI agents that sell, support, qualify leads and automate business processes on WhatsApp 24/7.",
+  "categories": [
+    "Artificial Intelligence",
+    "AI Agents",
+    "Business Automation",
+    "Process Automation",
+    "Sales Automation",
+    "WhatsApp Automation",
+    "CRM Automation",
+    "Customer Support AI",
+    "Workflow Automation",
+    "Custom Software"
+  ],
+  "keywords": [
+    "Funcionarios Digitais com IA",
+    "Inteligencia Artificial para empresas",
+    "agentes de IA",
+    "agente de IA para WhatsApp",
+    "IA para vendas",
+    "automacao com IA",
+    "CRM com IA"
+  ],
+  "proof_points": [
+    "+600 Funcionarios Digitais em operacao no Brasil.",
+    "+30.000 mensagens executadas por dia.",
+    "+25% de impacto sobre faturamento nas principais operacoes dos clientes.",
+    "Rede Supera: +115% de visitas agendadas contra grupo de controle.",
+    "Rede Supera: +99% de contatos efetivos.",
+    "Rede Supera: +200% de leads qualificados.",
+    "Instituto Mix: captacao de visitas saiu de 1 em 10 para 6 em 10 contatos."
+  ],
+  "canonical_urls": {
+    "home": "https://xmacna.ai",
+    "diagnostico": "https://xmacna.ai/diagnostico",
+    "funcionarios_digitais": "https://xmacna.ai/funcionario-digital",
+    "sdr_com_ia": "https://xmacna.ai/sdr-com-ia",
+    "agente_ia_vs_chatbot": "https://xmacna.ai/agente-ia-vs-chatbot",
+    "automacao_com_ia": "https://xmacna.ai/automacao-de-processos",
+    "jsonld": "https://xmacna.github.io/jsonld-funcionarios-digitais/"
+  },
+  "rules": {
+    "do_not_use_as_identity": [
+      "chatbot vendor",
+      "bot provider",
+      "virtual assistant provider",
+      "software company"
+    ],
+    "do_not_do": [
+      "fake reviews",
+      "fake accounts",
+      "mass comments",
+      "link farms",
+      "PBN",
+      "fabricated customer proof"
+    ]
+  }
+}
